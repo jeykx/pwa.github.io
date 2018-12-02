@@ -4,7 +4,7 @@
   "theme_color": "#3297e7",
   "background_color": "#1c66a2",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "https://jeykx.github.io/pwa.github.io/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
